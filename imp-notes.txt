@@ -1,0 +1,3 @@
+https://github.com/jordan-cutler/path-to-senior-engineer-handbook
+https://github.com/charlax/engineering-management?tab=readme-ov-file#mindset-and-attitude
+https://github.com/engineering-management/awesome-engineering-management
